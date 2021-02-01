@@ -1,9 +1,0 @@
-numpy
-cartopy
-xarray
-matplotlib
-pandas
-ipywidgets
-cdsapi
-pickle
-zarr

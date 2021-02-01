@@ -16,3 +16,4 @@ dependencies:
   - xarray
   - ipywidgets
   - cdsapi
+  - pickle

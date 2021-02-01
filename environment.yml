@@ -44,6 +44,7 @@ dependencies:
   - python-wget==3.2
   - shapely
   - ipywidgets
+  - zarr
  
   - pip:
       - geojsoncontour

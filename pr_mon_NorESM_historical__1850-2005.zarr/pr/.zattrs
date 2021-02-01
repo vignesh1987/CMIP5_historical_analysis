@@ -1,0 +1,16 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "associated_files": "baseURL: http://cmip-pcmdi.llnl.gov/CMIP5/dataLocation gridspecFile: gridspec_atmos_fx_NorESM1-M_historical_r0i0p0.nc areacella: areacella_fx_NorESM1-M_historical_r0i0p0.nc",
+    "cell_measures": "area: areacella",
+    "cell_methods": "time: mean",
+    "comment": "at surface; includes both liquid and solid phases from all types of clouds (both large-scale and convective)",
+    "history": "2011-06-01T05:45:35Z altered by CMOR: Converted type from 'd' to 'f'.",
+    "long_name": "Precipitation",
+    "original_name": "PRECT",
+    "standard_name": "precipitation_flux",
+    "units": "kg m-2 s-1"
+}

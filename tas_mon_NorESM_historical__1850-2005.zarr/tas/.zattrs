@@ -1,0 +1,16 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "associated_files": "baseURL: http://cmip-pcmdi.llnl.gov/CMIP5/dataLocation gridspecFile: gridspec_atmos_fx_NorESM1-M_historical_r0i0p0.nc areacella: areacella_fx_NorESM1-M_historical_r0i0p0.nc",
+    "cell_measures": "area: areacella",
+    "cell_methods": "time: mean",
+    "coordinates": "height",
+    "history": "2011-06-01T03:52:41Z altered by CMOR: Treated scalar dimension: 'height'. 2011-06-01T03:52:42Z altered by CMOR: Converted type from 'd' to 'f'.",
+    "long_name": "Near-Surface Air Temperature",
+    "original_name": "TREFHT",
+    "standard_name": "air_temperature",
+    "units": "K"
+}

@@ -1,7 +1,8 @@
+numpy
+cartopy
 xarray
 matplotlib
 pandas
-cartopy
 ipywidgets
 cdsapi
 pickle

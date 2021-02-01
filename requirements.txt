@@ -1,0 +1,8 @@
+xarray
+matplotlib
+pandas
+cartopy
+ipywidgets
+cdsapi
+pickle
+zarr
